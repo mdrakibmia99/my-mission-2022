@@ -2,6 +2,7 @@ body{
     font-family: 'Roboto', sans-serif;
     margin:0;
     padding:0;
+    background-color:rgba(224, 208, 208, 0.096);
 }
 h1,h2,h3{
     font-family: 'Lobster', cursive;
@@ -76,16 +77,18 @@ background-color: #eef6f7;
 margin-right: 25px;
 border-radius: 30px;
 padding: 20px 30px;
+width: 30%;
 }
 .mission2{
     background-color: #ffefef;
     margin-right: 25px;
     border-radius: 30px;
     padding: 20px 30px;
+    width: 30%;
 }
 .mission3{
     background-color: #fff4d6;
-   
+    width: 30%;
     border-radius: 30px;
     padding: 20px 30px;
 }
