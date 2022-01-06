@@ -1,0 +1,143 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin:0;
+    padding:0;
+}
+h1,h2,h3{
+    font-family: 'Lobster', cursive;
+}
+h2{
+    font-size: 35px;
+}
+h3{
+    font-size: 30px;
+}
+.btn{
+    text-decoration: none;
+    background-image:linear-gradient(302deg,rgb(228 23 23 / 74%),rgb(255 177 33 / 84%));
+    color: white;
+    padding: 12px 40px;
+    margin: 90px 5px;
+border-radius: 5px;
+margin-left: -3px;
+    }
+.header-section{
+    display: flex;
+    margin-top: 100px;
+}
+.heder-left{
+    width: 50%;
+    
+    
+}
+.heder-right{
+    width: 50%;
+    margin-left: 15%;
+}
+.heder-right img{
+    width: 90%;
+}
+h1{
+    font-size: 50px;
+}
+.left-border{
+    border-left:solid 5px;
+    border-image: linear-gradient(orange,black);
+    border-image-slice: 1;
+    padding-left: 15px; 
+}
+
+.orange{
+    color: #ffad5a;
+    margin-top: -35px;
+}
+section{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+p{
+    color: gray;
+    font-size: 18px;
+    padding: 10px 0;
+}
+
+
+.center{
+    text-align: center;
+}
+.flex{
+    display: flex;
+}
+.img{
+    width: 40%;
+}
+.mission1{
+background-color: #eef6f7;
+margin-right: 25px;
+border-radius: 30px;
+padding: 20px 30px;
+}
+.mission2{
+    background-color: #ffefef;
+    margin-right: 25px;
+    border-radius: 30px;
+    padding: 20px 30px;
+}
+.mission3{
+    background-color: #fff4d6;
+   
+    border-radius: 30px;
+    padding: 20px 30px;
+}
+.develop1{
+    width: 40%;
+    margin-left: 5%;
+}
+.develop2{
+    width: 60%;
+
+}
+.develop1 img{
+width: 85%;
+}
+.develop{
+    margin-top: 90px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: center left;
+    background-size: 20%;
+}
+.global{
+    margin-top: 90px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: 20%;
+}
+.global1{
+    width: 60%;
+}
+.global2{
+    width: 40%;
+    margin-left: 5%;
+}
+.global2 img{
+    width: 85%;
+}
+.footer{
+    background-color: #0b0d17;
+    padding: 20px 0;
+    margin-top: 50px;
+}
+.red{
+    color: #ff5959;
+}
+.white{
+    text-align: center;
+    color: white;
+}
+.footer-p{
+    font-weight: 100;
+    font-size: 12px;
+    margin-top: -30px;
+}
